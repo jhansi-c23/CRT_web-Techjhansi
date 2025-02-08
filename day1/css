@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width"=device-width,intial=scale=1.8>
+    <title>document</title>
+<style>
+    h1{
+    Background-color:yellow;
+    color:white;
+    text-align:center;
+    }
+    </style>
+     </head>
+    <body>
+        <h2>example for internal way of css</h2>
+        <h1> I'am learning HTML</h1>
+        </body>
+        </html>

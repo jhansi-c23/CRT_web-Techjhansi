@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content="width"=device-width,intial=scale=1.8>
+    <title>document</title>
+</head>
+<body>
+<h1>Example for anchor tag</h1>
+<h2><a href="Home.html">home</a><h2>
+    <h2><a href="Register.html">register</a><h2>
+        <h2><a href="">Contact us</a></h2>
+        <h2><a href="">Feedback</a></h2>
+</body>
+        </html>
